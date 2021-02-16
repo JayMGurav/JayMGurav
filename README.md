@@ -8,5 +8,5 @@ I'm aspiring full stack software engineer👨‍💻 and an insatiably curious l
 
 ##### Find me around the web 🌎:
 
-- [Twitter](twitter.com/JayMGurav)
-- [Linkedin](https://www.linkedin.com/in/jaymgurav/)
+- <a href="twitter.com/JayMGurav">Twitter<a/>
+- <a href="https://www.linkedin.com/in/jaymgurav/">Linkedin<a/>
