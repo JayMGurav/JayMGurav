@@ -4,7 +4,7 @@
 
 ![Jay Gurav](./jayGurav.jpg)
 
-I'm aspiring full stack software engineer👨‍💻 and an insatiably curious lifelong autodidact.
+I'm full stack software engineer👨‍💻 and an insatiably curious lifelong autodidact.
 
 ##### Find me around the web 🌎:
 
