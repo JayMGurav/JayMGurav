@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 ---
-
-![Jay Gurav](./jayGurav.jpg)
-
-I'm full stack software engineer👨‍💻 and an insatiably curious lifelong autodidact.
+<p align="center"><img src="./jayGurav.jpg" alt="Jay Gurav" align="middle"/></p>
+<p align="center">💻☕😴🏃‍♂️🛣🤝✨🚀</p>
 
 ##### Find me around the web 🌎:
 
