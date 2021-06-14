@@ -3,7 +3,9 @@
 ---
 <p align="center"><img src="./jayGurav.jpg" alt="Jay Gurav" align="middle"/></p>
 <p align="center">💻☕😴🏃‍♂️🛣🤝✨🚀</p>
-
+<p align="center">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JayMGurav.JayMGurav)
+</p>
 ##### Find me around the web 🌎:
 
 - <a href="https://twitter.com/JayMGurav" rel="noopener noreferrer">Twitter<a/>
