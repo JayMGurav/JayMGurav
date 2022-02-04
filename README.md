@@ -8,7 +8,7 @@
 
 </br>
 
-My name is Jay. I'm a software developer during the day and a geek by night. Writing software is my profession, hobby, and passion. During the day I'm a full-stack developer at Decathlon and at night I'm usually spending time with my friends and family, hacking my way through my pet projects, or learning something interesting. You might catch me playing with Javascript, React, NodeJs, GraphQL, MongoDB, Redis, TypeScript, or some shiny new thing that caught my attention.
+My name is Jay. I'm a software developer during the day and a geek by night. Writing software is my profession, hobby, and passion. During the day I'm a full-stack developer at [Decathlon](https://www.decathlon.co.uk/) and at night I'm usually spending time with my friends and family, hacking my way through my pet projects, or learning something interesting. You might catch me playing with Javascript, React, NodeJs, GraphQL, MongoDB, Redis, TypeScript, or some shiny new thing that caught my attention.
 
 
 ##### Find me around the web 🌎:
