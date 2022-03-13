@@ -1,5 +1,5 @@
 
-<h3 align="center">"Hi I'm Jay." "Hi Jay!"</h3>
+<h3 align="center">"Hi I'm Jay."</h3>
 
 
 <!-- <p align="center"><img src="./jayGurav.jpg" alt="Jay Gurav" align="middle"/></p> -->
